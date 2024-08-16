@@ -3,11 +3,11 @@
   <title>liurunshi&#39;s blog</title>
   
   <subtitle>记录美好生活</subtitle>
-  <link href="http://liurunshi.cn/atom.xml" rel="self"/>
+  <link href="http://liurunshi.github.io/atom.xml" rel="self"/>
   
-  <link href="http://liurunshi.cn/"/>
+  <link href="http://liurunshi.github.io/"/>
   <updated>2024-08-16T07:45:05.444Z</updated>
-  <id>http://liurunshi.cn/</id>
+  <id>http://liurunshi.github.io/</id>
   
   <author>
     <name>liurunshi</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>八部金刚功</title>
-    <link href="http://liurunshi.cn/2024/08/16/Eight-Diamond-Skills/"/>
-    <id>http://liurunshi.cn/2024/08/16/Eight-Diamond-Skills/</id>
+    <link href="http://liurunshi.github.io/2024/08/16/Eight-Diamond-Skills/"/>
+    <id>http://liurunshi.github.io/2024/08/16/Eight-Diamond-Skills/</id>
     <published>2024-08-16T06:28:03.000Z</published>
     <updated>2024-08-16T07:45:05.444Z</updated>
     
@@ -36,7 +36,7 @@
     
     
     
-    <category term="日常" scheme="http://liurunshi.cn/tags/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="http://liurunshi.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
