@@ -1,44 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>liurunshi&#39;s blog</title>
+  <title>LIURUNSHI</title>
+  <icon>https://liurunshi.github.io/icon.png</icon>
+  <subtitle>我没有特别聪明😭 | 我只是充满好奇😃</subtitle>
+  <link href="https://liurunshi.github.io/atom.xml" rel="self"/>
   
-  <subtitle>记录美好生活</subtitle>
-  <link href="http://liurunshi.github.io/atom.xml" rel="self"/>
-  
-  <link href="http://liurunshi.github.io/"/>
-  <updated>2024-08-16T08:53:55.301Z</updated>
-  <id>http://liurunshi.github.io/</id>
+  <link href="https://liurunshi.github.io/"/>
+  <updated>2024-08-17T02:32:32.000Z</updated>
+  <id>https://liurunshi.github.io/</id>
   
   <author>
-    <name>liurunshi</name>
+    <name>LIURUNSHI</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>八部金刚功</title>
-    <link href="http://liurunshi.github.io/2024/08/16/Eight-Diamond-Skills/"/>
-    <id>http://liurunshi.github.io/2024/08/16/Eight-Diamond-Skills/</id>
-    <published>2024-08-16T06:28:03.000Z</published>
-    <updated>2024-08-16T08:53:55.301Z</updated>
+    <title>docker compose使用</title>
+    <link href="https://liurunshi.github.io/docker-compose/"/>
+    <id>https://liurunshi.github.io/docker-compose/</id>
+    <published>2024-08-17T02:32:32.000Z</published>
+    <updated>2024-08-17T02:32:32.000Z</updated>
     
-    <content type="html"><![CDATA[<p>八部金刚功是一种传统的健身功法，通过特定的动作和呼吸方法，可以锻炼身体，增强身体的柔韧性、力量和平衡性。对于颈椎病和腰间盘突出等问题，八部金刚功有以下好处：</p><ol><li><p>改善姿势：八部金刚功注重正确的身体姿势和站立方式，可以纠正因长期不正确的姿势而导致的颈椎和腰椎问题。</p></li><li><p>加强肌肉：通过八部金刚功的练习，可以增强颈部、背部和腰部的肌肉力量，提高支撑和保护脊椎的能力。</p></li><li><p>促进血液循环：八部金刚功的动作和呼吸方法可以促进血液循环，增加氧气和营养物质的供应，有助于减轻疼痛和促进康复。</p></li><li><p>增加柔韧性：八部金刚功的动作涉及到身体的伸展和扭转，可以增加关节的灵活性和柔韧性，缓解颈椎和腰椎的僵硬感。</p></li><li><p>放松肌肉紧张：通过八部金刚功的练习，可以放松颈部、背部和腰部的肌肉紧张，缓解因肌肉紧张而引起的疼痛和不适。</p></li><li><p>提高身体平衡性：八部金刚功的练习可以提高身体的平衡性和稳定性，减少因不稳定而引起的颈椎和腰椎问题。</p></li><li><p>增强体质：八部金刚功的练习可以增强身体的整体健康状况，提高免疫力和抵抗力，有助于预防和缓解颈椎病和腰间盘突出等问题。</p></li></ol><p>请注意，八部金刚功作为一种健身功法，对于颈椎病和腰间盘突出等问题的疗效可能因人而异。如果您有相关健康问题，建议在专业医生的指导下进行适当的锻炼和治疗。</p><ul><li><p>点击下载 <a href="https://github.com/AnsonZnl/RehabilitationGuide/raw/main/%E5%85%AB%E9%83%A8%E9%87%91%E5%88%9A%E5%8A%9F/%E5%85%AB%E9%83%A8%E9%87%91%E5%88%9A%E5%8A%9F_%E5%BC%A0%E8%87%B3%E9%A1%BA.mp4">八部金刚功-张至顺</a></p></li><li><p>在线观看 <a href="https://search.bilibili.com/all?keyword=%E5%85%AB%E9%83%A8%E9%87%91%E5%88%9A%E5%8A%9F">八部金刚功-哔哩哔哩</a></p></li></ul>]]></content>
+    
+    <summary type="html">docker compose使用</summary>
+    
+    
+    
+    <category term="it" scheme="https://liurunshi.github.io/categories/it/"/>
+    
+    
+    <category term="docker" scheme="https://liurunshi.github.io/tags/docker/"/>
+    
+    <category term="it" scheme="https://liurunshi.github.io/tags/it/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>md例子</title>
+    <link href="https://liurunshi.github.io/mdlizi/"/>
+    <id>https://liurunshi.github.io/mdlizi/</id>
+    <published>2024-08-17T02:32:32.000Z</published>
+    <updated>2024-08-17T02:32:32.000Z</updated>
+    
+    
+    <summary type="html">md例子</summary>
+    
+    
+    
+    <category term="生活" scheme="https://liurunshi.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="生活" scheme="https://liurunshi.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="居家办公" scheme="https://liurunshi.github.io/tags/%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python的作用域</title>
+    <link href="https://liurunshi.github.io/python-scope/"/>
+    <id>https://liurunshi.github.io/python-scope/</id>
+    <published>2024-08-17T01:32:32.000Z</published>
+    <updated>2024-08-17T01:32:32.000Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;八部金刚功是一种传统的健身功法，通过特定的动作和呼吸方法，可以锻炼身体，增强身体的柔韧性、力量和平衡性。对于颈椎病和腰间盘突出等问题，八部金刚功有以下好处：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;改善姿势：八部金刚功注重正确的身体姿势和站立方式，可以纠正因长期不正确的姿势而导致的</summary>
+        
+        
+    <summary type="html">&lt;h1 id=&quot;作用域，global和nonlocal&quot;&gt;&lt;a href=&quot;#作用域，global和nonlocal&quot; class=&quot;headerlink&quot; title=&quot;作用域，global和nonlocal&quot;&gt;&lt;/a&gt;作用域，global和nonlocal&lt;/h1&gt;&lt;h2</summary>
+        
       
     
     
     
-    <category term="日常" scheme="http://liurunshi.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="it" scheme="https://liurunshi.github.io/categories/it/"/>
     
     
-    <category term="健康" scheme="http://liurunshi.github.io/tags/%E5%81%A5%E5%BA%B7/"/>
+    <category term="python" scheme="https://liurunshi.github.io/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>xray搭建</title>
+    <link href="https://liurunshi.github.io/xray-daploy/"/>
+    <id>https://liurunshi.github.io/xray-daploy/</id>
+    <published>2024-08-17T01:32:32.000Z</published>
+    <updated>2024-08-17T01:32:32.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Xray&quot;&gt;&lt;a href=&quot;#Xray&quot; class=&quot;headerlink&quot; title=&quot;Xray&quot;&gt;&lt;/a&gt;Xray&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;nginx的分流功能  + Xray ,</summary>
+        
+      
+    
+    
+    
+    <category term="it" scheme="https://liurunshi.github.io/categories/it/"/>
+    
+    
+    <category term="vpn" scheme="https://liurunshi.github.io/tags/vpn/"/>
     
   </entry>
   
