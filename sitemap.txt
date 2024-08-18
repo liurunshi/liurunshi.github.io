@@ -4,6 +4,7 @@ https://liurunshi.github.io/more/about/
 https://liurunshi.github.io/more/me/
 https://liurunshi.github.io/more/music/
 https://liurunshi.github.io/news/2024/
+https://liurunshi.github.io/tag-plugin-test/
 https://liurunshi.github.io/docker-compose/
 https://liurunshi.github.io/mdlizi/
 https://liurunshi.github.io/python-scope/
@@ -11,9 +12,9 @@ https://liurunshi.github.io/xray-daploy/
 https://liurunshi.github.io/
 https://liurunshi.github.io/tags/it/
 https://liurunshi.github.io/tags/docker/
-https://liurunshi.github.io/tags/python/
 https://liurunshi.github.io/tags/%E7%94%9F%E6%B4%BB/
 https://liurunshi.github.io/tags/%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC/
+https://liurunshi.github.io/tags/python/
 https://liurunshi.github.io/tags/vpn/
 https://liurunshi.github.io/categories/it/
 https://liurunshi.github.io/categories/%E7%94%9F%E6%B4%BB/
