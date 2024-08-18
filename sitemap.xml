@@ -2,45 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://liurunshi.github.io/wiki/powershell/</loc>
-    
-    <lastmod>2024-08-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/self-hosting/</loc>
-    
-    <lastmod>2024-08-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/sql-server/</loc>
-    
-    <lastmod>2024-08-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/windows-server/</loc>
-    
-    <lastmod>2024-08-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://liurunshi.github.io/more/</loc>
     
-    <lastmod>2024-08-17</lastmod>
+    <lastmod>2024-08-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +13,7 @@
   <url>
     <loc>https://liurunshi.github.io/news/</loc>
     
-    <lastmod>2024-08-17</lastmod>
+    <lastmod>2024-08-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,16 +22,7 @@
   <url>
     <loc>https://liurunshi.github.io/more/about/</loc>
     
-    <lastmod>2024-08-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/more/music/</loc>
-    
-    <lastmod>2024-08-17</lastmod>
+    <lastmod>2024-08-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,61 +31,25 @@
   <url>
     <loc>https://liurunshi.github.io/more/me/</loc>
     
-    <lastmod>2024-08-17</lastmod>
+    <lastmod>2024-08-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liurunshi.github.io/news/2021/</loc>
+    <loc>https://liurunshi.github.io/more/music/</loc>
     
-    <lastmod>2024-08-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/news/2022/</loc>
-    
-    <lastmod>2024-08-17</lastmod>
+    <lastmod>2024-08-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liurunshi.github.io/news/2023/</loc>
+    <loc>https://liurunshi.github.io/news/2024/</loc>
     
-    <lastmod>2024-08-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/news/cat/</loc>
-    
-    <lastmod>2024-08-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/ad-ds/</loc>
-    
-    <lastmod>2024-08-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/azure/</loc>
-    
-    <lastmod>2024-08-17</lastmod>
+    <lastmod>2024-08-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -172,172 +91,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://liurunshi.github.io/wiki/ad-ds/configure-site-replication/</loc>
-    
-    <lastmod>2024-04-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/ad-ds/install-the-read-only-domain-controller/</loc>
-    
-    <lastmod>2024-04-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/ad-ds/install-the-backup-domain-controller/</loc>
-    
-    <lastmod>2024-04-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/ad-ds/install-the-primary-domain-controller/</loc>
-    
-    <lastmod>2024-04-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/ad-ds/system-architecture/</loc>
-    
-    <lastmod>2024-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/azure/integration-between-azure-ad-sso-and-aws-china/</loc>
-    
-    <lastmod>2022-12-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/self-hosting/self-hosting-password-manager-with-bitwarden/</loc>
-    
-    <lastmod>2022-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/self-hosting/self-hosting-cloud-storage-service-with-filebrowser/</loc>
-    
-    <lastmod>2022-12-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/sql-server/encrypting-sql-server-database-backups/</loc>
-    
-    <lastmod>2022-07-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/sql-server/regaining-access-to-sql-server/</loc>
-    
-    <lastmod>2022-07-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/powershell/customizing-windows-terminal/</loc>
-    
-    <lastmod>2022-06-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/powershell/code-readability/</loc>
-    
-    <lastmod>2021-11-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/powershell/collection-of-powershell-learning-materials/</loc>
-    
-    <lastmod>2021-10-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/powershell/generate-random-password/</loc>
-    
-    <lastmod>2021-10-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/powershell/create-ou-layer-by-layer/</loc>
-    
-    <lastmod>2021-10-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/powershell/get-date-by-week/</loc>
-    
-    <lastmod>2021-10-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/powershell/auto-update-pwsh/</loc>
-    
-    <lastmod>2021-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/wiki/windows-server/setting-ntfs-permissions-via-icacls-exe/</loc>
-    
-    <lastmod>2021-09-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://liurunshi.github.io/</loc>
-    <lastmod>2024-08-17</lastmod>
+    <lastmod>2024-08-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -345,42 +102,42 @@
   
   <url>
     <loc>https://liurunshi.github.io/tags/it/</loc>
-    <lastmod>2024-08-17</lastmod>
+    <lastmod>2024-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liurunshi.github.io/tags/docker/</loc>
-    <lastmod>2024-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2024-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://liurunshi.github.io/tags/%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC/</loc>
-    <lastmod>2024-08-17</lastmod>
+    <lastmod>2024-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liurunshi.github.io/tags/python/</loc>
-    <lastmod>2024-08-17</lastmod>
+    <lastmod>2024-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://liurunshi.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2024-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://liurunshi.github.io/tags/%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC/</loc>
+    <lastmod>2024-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liurunshi.github.io/tags/vpn/</loc>
-    <lastmod>2024-08-17</lastmod>
+    <lastmod>2024-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -389,14 +146,14 @@
   
   <url>
     <loc>https://liurunshi.github.io/categories/it/</loc>
-    <lastmod>2024-08-17</lastmod>
+    <lastmod>2024-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liurunshi.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2024-08-17</lastmod>
+    <lastmod>2024-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
